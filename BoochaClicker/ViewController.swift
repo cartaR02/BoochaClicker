@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  RealHigherOrLower
+//  Boocha Clicker
 //
 //  Created by Carter Struck on 5/10/24.
 //

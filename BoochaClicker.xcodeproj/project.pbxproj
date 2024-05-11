@@ -42,7 +42,7 @@
 		AD3436012BEE8D1A00BEF535 = {
 			isa = PBXGroup;
 			children = (
-				AD34360C2BEE8D1A00BEF535 /* RealHigherOrLower */,
+				AD34360C2BEE8D1A00BEF535 /* BoochaClicker */,
 				AD34360B2BEE8D1A00BEF535 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AD34360C2BEE8D1A00BEF535 /* RealHigherOrLower */ = {
+		AD34360C2BEE8D1A00BEF535 /* BoochaClicker */ = {
 			isa = PBXGroup;
 			children = (
 				AD34360D2BEE8D1A00BEF535 /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				AD34361B2BEE8D1B00BEF535 /* Info.plist */,
 				AD3436232BEEAD3A00BEF535 /* Kumbocha.png */,
 			);
-			path = RealHigherOrLower;
+			path = BoochaClicker;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AD3436052BEE8D1A00BEF535 /* Build configuration list for PBXProject "RealHigherOrLower" */;
+			buildConfigurationList = AD3436052BEE8D1A00BEF535 /* Build configuration list for PBXProject "BoochaClicker" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -346,7 +346,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AD3436052BEE8D1A00BEF535 /* Build configuration list for PBXProject "RealHigherOrLower" */ = {
+		AD3436052BEE8D1A00BEF535 /* Build configuration list for PBXProject "BoochaClicker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AD34361C2BEE8D1B00BEF535 /* Debug */,
